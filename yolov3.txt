@@ -1,0 +1,80 @@
+insan
+bisiklet
+araba
+motosiklet
+ucak
+otobus
+tren
+kamyon
+tekne
+trafik lambasi
+yangin muslugu
+dur isareti
+parkmetre
+bank
+kus
+kedi
+kopek
+at
+koyun
+inek
+fil
+ayi
+zebra
+zürafa
+sirt cantasi
+semsiye
+el cantasi
+kravat
+bavul
+frizbi
+kayak
+snowboard
+spor topu
+ucurtma
+beyzbol sopasi
+beyzbol eldiveni
+kaykay
+sörf tahtasi
+tenis raketi
+sise
+sarap bardagi
+fincan
+catal
+bicak
+kasik
+kase
+muz
+elma
+sandvic
+portakal
+brokoli
+havuc
+sosisli sandvic
+pizza
+corek
+kek
+sandalye
+kanepe
+saksidaki bitki
+yatak
+yemek masasi
+tuvalet
+televizyon
+dizustu bilgisayar
+fare
+uzaktan kumanda
+klavye
+cep telefonu
+mikrodalga
+firin
+tost makinesi
+lavabo
+buzdolabi
+kitap
+saat
+vazo
+makas
+pelus ayi
+sac kurutma makinesi
+dis fircasi
