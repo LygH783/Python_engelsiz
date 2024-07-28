@@ -1,1 +1,1 @@
-Turkish Yolo List
+Yolov3 Türkçe
